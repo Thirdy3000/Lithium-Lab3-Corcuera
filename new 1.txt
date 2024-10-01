@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+     <head>
+        <title>Super Smash Bros.</title>
+       
+	   <meta charset="UTF-8">
+        <meta name="author" content="Efren III J. Corcuera">
+        <meta name="keywords" content="Lab Exercise 1">
+        <meta name="date-submitted" content="30-08-2024">
+     </head>
+	 <body>
+          <div>
+              <h1>Super Smash Bros.</h1>
+              <p>Super Smash Bros. is a crossover platform fighting game series published by Nintendo.The series was created by Masahiro Sakurai, who has directed every game in the series.The series is known for its unique gameplay objective which differs from that of traditional fighters, in that the aim is to increase damage counters and knock opponents off the stage instead of depleting life bars.</p>
+          </div>
+		  <span><h3>5 reasons why this game is my favorite: </h3>
+		         <ul>
+	      <li>This game is interesting</li>
+		  <li>It has nice animations</li>
+		  <li>It has multiple game modes</li>
+		  <li> You can play with diverse characters</li>
+		  <li>You can play with your peers</li>
+		  
+        </ul> 
+		  </span>
+		  <p>Copyright © Efren III J. Corcuera 9-Lithium. All rights reserved.</p>
+          		  
+		  
+     </body>
+</html>
